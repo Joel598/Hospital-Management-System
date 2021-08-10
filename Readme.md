@@ -8,8 +8,11 @@ The Hospital Management System can be logged in using a username and password.
 The Modification access can be done by either an administrator or receptionist.
 
 **Advantages**
+
 The data can be retrieved easily. 
+
 The interface is very user-friendly. 
+
 The data is well organized and protected.
 
 ## Screenshots
