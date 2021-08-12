@@ -15,4 +15,4 @@ The Modification access can be done by either an administrator or receptionist.
 
 3.The data is well organized and protected.
 
-## Screenshots
+
