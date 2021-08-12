@@ -15,4 +15,7 @@ The Modification access can be done by either an administrator or receptionist.
 
 3.The data is well organized and protected.
 
+Required JVM-1.8 you need to set SQLite path as per your requirement Set MySQL username and password as per your requirement.
+default admin username:admin password:admin
+
 
